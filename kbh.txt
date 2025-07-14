@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Commencement Ceremony Speech</title>
+</head>
+<body>
+    <h1>Commencement Speech</h1>
+
+    <p>
+        Distinguished guests, respected faculty, proud families, and dear fellow graduates,
+    </p>
+
+    <p>
+        Today marks not just the end of a journey, but the beginning of a new chapter in our lives. 
+        We gather here not only to celebrate our academic accomplishments, but to honor the resilience, 
+        dreams, and determination that brought us to this moment.
+    </p>
+
+    <p>
+        We have faced challenges, both seen and unseen. We’ve worked late into the night, 
+        supported each other through difficult times, and kept moving forward even when it wasn’t easy. 
+        And now, we stand together as graduates—ready to face the world.
+    </p>
+
+    <p>
+        Let us remember that education is not the end, but the foundation. It gives us the tools to think critically, 
+        lead with compassion, and serve our communities. As we step out into the world, may we carry with us 
+        the values we’ve gained here: unity, courage, and a deep sense of purpose.
+    </p>
+
+    <p>
+        I believe in our generation. I believe that we can rebuild what is broken, speak for those without a voice, 
+        and shape a brighter future—not just for ourselves, but for our nation and for the world.
+    </p>
+
+    <p>
+        To our teachers: thank you for your wisdom and guidance. To our families: thank you for your love and sacrifice. 
+        And to my fellow graduates: congratulations. This is our time.
+    </p>
+
+    <p>
+        May we walk forward with pride, with humility, and with the belief that our best days are still ahead.
+    </p>
+
+    <p>
+        Thank you.
+    </p>
+</body>
+</html><DOCTYPE html>
