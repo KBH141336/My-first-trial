@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Commencement Ceremony Speech</title>
+</head>
+<body>
+    <h1>Commencement Speech</h1>
+
+    <p>
+        Distinguished guests, respected faculty, proud families, and dear fellow graduates,
+    </p>
+</body>
+</html><DOCTYPE html>
